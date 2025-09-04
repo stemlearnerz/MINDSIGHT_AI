@@ -1,0 +1,5 @@
+creation_date: 20250620_191649
+model_type: <class 'sklearn.linear_model._logistic.LogisticRegression'>
+accuracy: 0.9320388349514563
+classes: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+input_features: 1000

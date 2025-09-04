@@ -1,0 +1,7 @@
+creation_date: 20250621_071808
+model_type: LogisticRegression
+accuracy: 0.9320388349514563
+classes: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+input_features: 1000
+vectorizer_type: TfidfVectorizer
+vectorizer_params: {'max_features': 1000, 'ngram_range': (1, 2)}
